@@ -417,7 +417,7 @@ case "$x" in
    ;;
    10)
    conexao
-   exit
+   exit;
    ;;
    11)
    clear
