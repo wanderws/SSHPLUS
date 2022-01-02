@@ -9,7 +9,7 @@
 
 MyScriptName="Yoru's"
 
-SSH_Banner='https://raw.githubusercontent.com/leitura/ospacotesmb/main/ssh_banner'
+SSH_Banner='https://raw.githubusercontent.com/wanderws/ospacotesmb/main/ssh_banner'
 
 Stunnel_Port1='443'
 
